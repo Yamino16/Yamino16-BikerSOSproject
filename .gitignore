@@ -1,0 +1,4 @@
+backend/config.php
+.env
+*.log
+node_modules/
